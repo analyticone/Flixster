@@ -21,14 +21,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) Improved the user interface by experimenting with styling and coloring.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
-<img src=https://i.imgur.com/vsNXDwns.gif width=250><br>
-
-
-https://imgur.com/a/QqJsGTb
-https://imgur.com/vsNXDwn
+<img src=https://imgur.com/x83bqWO.gif width=250><br>
+<img src=https://imgur.com/O8bJWwJ.gif width=250><br>
 
 ### Notes
-I had trouble with the animated gif.  My app has a very noticeable delay when scrolling images
+My app has a very noticeable delay when scrolling images
 ### Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
